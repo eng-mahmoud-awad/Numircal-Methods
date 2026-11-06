@@ -3,7 +3,8 @@
 ## 1. Project Overview
 
 This project provides a command-line program built in Python to find the roots of nonlinear equations of the form $f(x) = 0$. The user can dynamically enter any mathematical function and choose from five classical numerical methods. For each selected method, the program generates a formatted step-by-step iteration table showing intermediate values, errors, and the final approximate root.
-
+## -- Github Repository
+[Repository](https://github.com/eng-mahmoud-awad/Numircal-Methods)
 ## 2. Supported Numerical Methods
 
 ### 2.1 Bisection Method
